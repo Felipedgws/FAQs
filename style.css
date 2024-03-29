@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(255, 228, 196, 0.532);
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-image: url(Imagens/pngtree-sunset-purple-sky-background-picture-image_1228003.jpg);
+    background-position: center center;
+    background-size: cover;
+    
+}
+
+.titulocaixa{
+    font-weight: bold;
+    padding-bottom: 15px;
+    font-size: 7vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    font-weight: bold;
+    line-height: 4vh;
+}
+
+img{
+    float: right;
+}
+
+#jjameson{
+    float: left;
+    padding-right: 10px;
+}
+
+.caixa{
+    line-height: 3vh;
+    font-size: 2.4vh;
+    padding: 15px;
+    width: 500px;
+    background-color: white;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.378);
+    border-radius: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#conteudo1{
+    display: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 2.2vh;
+}
+
+#conteudo2{
+    display: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 2.2vh;
+}
+
+#conteudo3{
+    display: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 2.2vh;
+}
+
+#conteudo4{
+    display: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 2.2vh;
+}
